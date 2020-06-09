@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4fb5376-9bbd-478f-b31e-11fac0bc5df2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ResultsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ResultsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/PriceSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/PriceSortTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="java-task/1.0.1" />
+                    <option name="lastUsedInstant" value="1584654206" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="java-removing" />
+                    <option name="lastUsedInstant" value="1584654205" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/../.." />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZJYDUT7EjoOFIm90TihH2FcCr6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.PriceSortTest">
+    <configuration name="PriceSortTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mastertask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PriceSortTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceSortTest.verifyPricesSortingIsWorking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mastertask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PriceSortTest" />
+      <option name="METHOD_NAME" value="verifyPricesSortingIsWorking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PriceSortTest" />
+        <item itemvalue="TestNG.PriceSortTest.verifyPricesSortingIsWorking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4fb5376-9bbd-478f-b31e-11fac0bc5df2" name="Default Changelist" comment="" />
+      <created>1584558544919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584558544919</updated>
+      <workItem from="1584558552351" duration="656000" />
+      <workItem from="1584644524789" duration="5048000" />
+      <workItem from="1584665582723" duration="1338000" />
+      <workItem from="1584715605544" duration="178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1624" height="260" key="GridCell.Tab.0.bottom" timestamp="1584667191467">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="260" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584667191467" />
+    <state width="1624" height="327" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1584658797575" />
+    <state width="1624" height="260" key="GridCell.Tab.0.center" timestamp="1584667191466">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="260" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584667191466" />
+    <state width="1624" height="327" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1584658797573" />
+    <state width="1624" height="260" key="GridCell.Tab.0.left" timestamp="1584667191466">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="260" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584667191466" />
+    <state width="1624" height="327" key="GridCell.Tab.0.left/0.0.1680.1050@0.23.1680.980" timestamp="1584656473668" />
+    <state width="1624" height="327" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1584658797571" />
+    <state width="1624" height="260" key="GridCell.Tab.0.right" timestamp="1584667191467">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="260" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584667191467" />
+    <state width="1624" height="327" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1584658797574" />
+    <state width="1624" height="327" key="GridCell.Tab.1.bottom" timestamp="1584659051758">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="327" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584659051758" />
+    <state width="1624" height="327" key="GridCell.Tab.1.bottom/0.23.1680.980@0.23.1680.980" timestamp="1584658797578" />
+    <state width="1624" height="327" key="GridCell.Tab.1.center" timestamp="1584659051757">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="327" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584659051757" />
+    <state width="1624" height="327" key="GridCell.Tab.1.center/0.23.1680.980@0.23.1680.980" timestamp="1584658797577" />
+    <state width="1624" height="327" key="GridCell.Tab.1.left" timestamp="1584659051756">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="327" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584659051756" />
+    <state width="1624" height="327" key="GridCell.Tab.1.left/0.23.1680.980@0.23.1680.980" timestamp="1584658797576" />
+    <state width="1624" height="327" key="GridCell.Tab.1.right" timestamp="1584659051758">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="327" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584659051758" />
+    <state width="1624" height="327" key="GridCell.Tab.1.right/0.23.1680.980@0.23.1680.980" timestamp="1584658797577" />
+    <state x="581" y="51" key="VCS.ChangeListViewerDialog" timestamp="1584644634447">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="581" y="51" key="VCS.ChangeListViewerDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584644634447" />
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584644745671">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.980@0.23.1680.980" timestamp="1584644745671" />
+    <state x="450" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1584715607427">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="450" y="319" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584715607427" />
+  </component>
+</project>
